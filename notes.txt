@@ -1,0 +1,4 @@
+
+Use the following command to retrieve DwCA files:
+
+xargs -n 1 curl -JLO < torch_urls_test.txt
