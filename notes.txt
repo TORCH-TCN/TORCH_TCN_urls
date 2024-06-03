@@ -1,4 +1,9 @@
 
+Use the following command to generate DwCA URLs from the CSV:
+python generate_url_txt.py > torch_urls.txt
+Note: by default the script only creates URLs for participants in TX and OK
+
+
 Use the following command to retrieve DwCA files:
 
-xargs -n 1 curl -JLO < torch_urls_test.txt
+xargs -n 1 curl -JLO < torch_urls.txt
