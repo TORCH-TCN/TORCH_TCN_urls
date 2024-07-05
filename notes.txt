@@ -7,3 +7,7 @@ Note: by default the script only creates URLs for participants in TX and OK
 Use the following command to retrieve DwCA files:
 
 xargs -n 1 curl -JLO < torch_urls.txt
+
+
+PROBLEMS
+CSU (https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=538) missing occurrenceID on 16999 records so not included in DwC.

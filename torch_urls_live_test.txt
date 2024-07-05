@@ -1,0 +1,2 @@
+https://portal.torcherbaria.org/portal/webservices/dwc/dwcapubhandler.php?collid=281
+https://portal.torcherbaria.org/portal/webservices/dwc/dwcapubhandler.php?collid=352

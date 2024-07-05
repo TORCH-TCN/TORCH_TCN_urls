@@ -1,0 +1,8 @@
+https://portal.torcherbaria.org/portal/content/dwca/NPS-AMIS_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/LLC_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/WTS_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/CAMU_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/DUR_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/ECSC_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/OCLA_DwC-A.zip 
+https://portal.torcherbaria.org/portal/content/dwca/TULS_DwC-A.zip 
