@@ -9,7 +9,7 @@ with open('torch_urls.csv') as f:
         #print('checking status:', url)
         try:
             if url == '':
-                print(url,',FALSE')
+                print('NO_URL',',FALSE')
             else:
                 r = requests.head(url, timeout=2)
                 #print(r['Content-Length'])
