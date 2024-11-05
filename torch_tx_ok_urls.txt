@@ -9,7 +9,6 @@ https://portal.torcherbaria.org/portal/content/dwca/ECSC_DwC-A.zip
 https://portal.torcherbaria.org/portal/content/dwca/FWNC-FWNC_DwC-A.zip
 https://portal.torcherbaria.org/portal/content/dwca/HPC_DwC-A.zip 
 https://portal.torcherbaria.org/portal/content/dwca/HSU_DwC-A.zip 
-https://ipt.huh.harvard.edu/ipt/archive.do?r=huh_vascular_plants_north_america
 https://portal.torcherbaria.org/portal/content/dwca/JWC_DwC-A.zip
 https://portal.torcherbaria.org/portal/content/dwca/LL_DwC-A.zip 
 https://portal.torcherbaria.org/portal/content/dwca/LLC_DwC-A.zip 
