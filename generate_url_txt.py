@@ -1,3 +1,7 @@
+# write the output of this file to a TXT file
+# use the TXT file as input to download each DwCA
+# xargs -n 1 curl -JLO < torch_urls.txt
+
 import csv
 
 with open('torch_urls.csv') as f:
